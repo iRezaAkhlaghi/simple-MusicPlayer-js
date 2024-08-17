@@ -21,6 +21,11 @@ body {
     margin-top: 150px;
 }
 
+.coverImg{
+    border-radius: 50%;
+  
+}
+
 .icons {
     display: flex;
     align-items: center;
